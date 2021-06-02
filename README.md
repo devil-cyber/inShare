@@ -1,5 +1,7 @@
 <img  src="./ui/logo.png" width="20%">
 
+> ApI is hosted at Heroku and frontend at netlify [Give it a try !!](https://in-share.netlify.app/)
+
 ## Overview:)
 
 - **inShare is a simple file sharing webapp that share file upto 100MB size.**
